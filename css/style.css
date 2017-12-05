@@ -1,0 +1,78 @@
+body {
+	text-align: center;
+}
+
+h2 {
+	margin: 10px;
+}
+
+.headline {
+
+}
+
+.formGroup {
+
+}
+
+/*to do styling*/
+
+.todoForm {
+	display: inline-block;
+	background-color: #6287c1;
+	height: 12%;
+	width: 40%;
+
+}
+
+.todoTitle {
+
+}
+
+.todoUL {
+
+}
+
+.todoLI {
+
+}
+
+.todoBox {
+
+}
+
+.subItem {
+
+}
+
+
+/*todid styling*/
+
+.todidForm {
+	display: inline-block;
+	background-color: #6287c1;
+	height: 12%;
+	width: 40%;
+}
+
+.todidTitle {
+
+}
+
+.todidUL {
+
+}
+
+.todidLI {
+
+
+}
+
+
+
+
+
+
+
+
+
+
